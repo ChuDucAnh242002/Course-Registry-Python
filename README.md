@@ -2,7 +2,9 @@
 
 You will start a game by :
 
+``` python
 python course_registry.py
+```
 
 After choose any file or default file (courses.txt) and begin
 There are 6 commands:
